@@ -6,7 +6,7 @@
 
 body{
     background-color: black;
-    background: fixed linear-gradient( 135deg,rgb(12, 0, 45) 90%,indigo);
+    background: fixed linear-gradient( 135deg,rgb(12, 0, 45) 90%,yellow);
     color: aliceblue;
     padding: 1em;
 }
